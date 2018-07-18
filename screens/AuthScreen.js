@@ -12,7 +12,6 @@ class AuthScreen extends Component {
 				<Text>AuthScreen</Text>
 				<Text>AuthScreen</Text>
 				<Text>AuthScreen</Text>
-				<Text>AuthScreen</Text>
 			</View>
 		);
 	}
